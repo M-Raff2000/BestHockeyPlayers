@@ -1,0 +1,47 @@
+img{
+  width: 200px;
+  border: 1px solid gold;
+}
+h1{
+  color: purple;
+  font-size: 50;
+}
+
+#Forsberg{
+  color: purple;
+}
+ol{
+  color: blue;
+}
+h4{
+  color: red
+}
+#Brodeur{
+  width: 275;
+  border: 2px solid red;
+}
+.menu{
+  list-style: none;
+  float: right;
+}
+.menu li{
+  display: inline;
+  color: black;
+  margin: 4px;
+}
+.menu a{
+  text-decoration: none;
+  color: white;
+  padding: 4px;
+  border: 1px solid black;
+  background-color: grey;
+}
+.menu a:hover{
+  color: black
+}
+img:hover{
+  border:10px solid gold;
+}
+
+
+  
